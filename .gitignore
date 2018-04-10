@@ -3,7 +3,7 @@
 
 
 ### Mathematica stuff ###
-./src/NOTEBOOKS/apenas_zeroT_testes.nb 
+#src/NOTEBOOKS/apenas_zeroT_testes.nb 
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
